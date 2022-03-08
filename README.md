@@ -12,7 +12,7 @@ I'm a programmer who really enjoys working and learning about mobile development
 
 - 🌱 I’m always learning something 😅😁!!! 
 - 📫 How to reach me: gaasilvestre@gmail.com 
-- ⚡ Fun fact: My hobby is creating 3D modeling and animations (I'm a Blender enthusiast 😆)   
+- ⚡ Fun fact: My hobby is 3D modeling and creating animations (I'm a Blender enthusiast 😆)   
 
 
 
