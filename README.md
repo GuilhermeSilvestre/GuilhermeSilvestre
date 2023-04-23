@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Guilherme Silvestre
-#### Mobile App Developer
+#### Software Developer
 ![hello-world](https://user-images.githubusercontent.com/100291684/184061532-e237b5d1-d160-43a7-9aa0-71d44eeaee2d.jpg)
 
-I'm a programmer who really enjoys working and learning about mobile development, especially with Flutter Framework.
+I'm a programmer who really enjoys working with new technologies and learning about software development.
 
 **Skills: FLUTTER / DART / PHP/ JS / HTML / CSS**
 
