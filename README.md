@@ -14,8 +14,11 @@ I'm a programmer who really enjoys working with new technologies and learning ab
 - 📫 How to reach me: gaasilvestre@gmail.com 
 - ⚡ Fun fact: My hobby is 3D modeling and creating animations (I'm a Blender enthusiast 😆)   
 
+-------------------
 
+Some published apps:
 
+https://play.google.com/store/apps/developer?id=TuRtLeDz
 
 
 
