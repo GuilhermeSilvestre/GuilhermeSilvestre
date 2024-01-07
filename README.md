@@ -17,8 +17,9 @@ I'm a programmer who really enjoys working with new technologies and learning ab
 -------------------
 
 Some published apps:
+https://play.google.com/store/apps/dev?id=4726844945250368229
 
-https://play.google.com/store/apps/developer?id=TuRtLeDz
+
 
 
 
